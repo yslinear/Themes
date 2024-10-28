@@ -15,9 +15,9 @@
     "devDependencies": {
         "autoprefixer": "10.4.20",
         "beeper": "2.1.0",
-        "concurrently": "8.2.2",
-        "cssnano": "7.0.5",
-        "gscan": "4.43.3",
+        "concurrently": "9.0.1",
+        "cssnano": "7.0.6",
+        "gscan": "4.45.0",
         "gulp": "5.0.0",
         "gulp-compile-handlebars": "0.6.1",
         "gulp-concat": "2.6.1",
@@ -27,9 +27,9 @@
         "gulp-zip": "5.1.0",
         "lerna": "8.1.8",
         "ordered-read-streams": "2.0.0",
-        "postcss": "8.4.44",
+        "postcss": "8.4.47",
         "postcss-easy-import": "4.0.0",
-        "pump": "3.0.0",
+        "pump": "3.0.2",
         "yargs": "17.7.2"
     },
     "browserslist": [
